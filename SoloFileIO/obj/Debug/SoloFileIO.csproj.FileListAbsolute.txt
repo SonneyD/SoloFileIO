@@ -1,0 +1,10 @@
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\bin\Debug\SoloFileIO.exe.config
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.csprojResolveAssemblyReference.cache
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.Form1.resources
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.Properties.Resources.resources
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.csproj.GenerateResource.Cache
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\bin\Debug\SoloFileIO.exe
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\bin\Debug\SoloFileIO.pdb
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.exe
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.pdb
+C:\Users\omgit\Desktop\ResearchProject\ProjectDir\SoloFileIO\SoloFileIO\obj\Debug\SoloFileIO.FileViewer.resources
